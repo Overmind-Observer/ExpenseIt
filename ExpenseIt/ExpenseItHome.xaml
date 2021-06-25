@@ -44,7 +44,6 @@
         <!-- Bacground image -->
         <Grid.Background>
             <ImageBrush ImageSource="/watermark.png" />
-/>
         </Grid.Background>
     </Grid>
     
